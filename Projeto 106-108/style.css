@@ -1,0 +1,48 @@
+body{
+    width: 100%;
+    min-height: 100% ;
+    background: linear-gradient(90deg, #e48b8b 0%, #57acc2 );
+    justify-content: center;
+    display: inline;
+    align-content: center;
+    color: white;
+}
+#texto{
+    font-family: 'Raleway', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    font-weight: 'bold';
+    text-shadow: #000 1px 2px 2px;
+}
+.header_div p{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:#4294ff;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color:rgba(red, green, blue, alpha) ;
+    text-align: center;
+    text-shadow: #000 1px 2px 2px;
+
+}
+#botao1{
+    color:white;
+    display: inline;
+    margin-left: 200px;
+    background-color: #e48b8b;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    padding:15px;
+    font-weight: bold;
+    font-family:  'Quicksand', sans-serif;
+}
